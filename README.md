@@ -1,7 +1,7 @@
 ## Hi there 👋,I'm Mohammed Saifuddin Ahmed
 
-- 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/Mohammed Saifuddin Ahmed)
-[![Instagram](https://img.shields.io/badge/-Instagram-pink)](https://www.instagram.com/saifuddin._.ahmed)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2)](https://twitter.com/saifuddin1902)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/mohammed-saifuddin-ahmed-648b28255/)
+[![Instagram](https://img.shields.io/badge/-Instagram-pink)](https://www.instagram.com/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2)](https://twitter.com/)
+
 
