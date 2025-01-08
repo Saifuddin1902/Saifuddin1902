@@ -4,8 +4,11 @@
 [![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/)
 [![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.svg)](https://twitter.com/)
 
-Instagram Logo resized: <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" />
+<!-- Instagram resized -->
+<a href="https://www.instagram.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30"/>
+</a>
+
 
 
 
