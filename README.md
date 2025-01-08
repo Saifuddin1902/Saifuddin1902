@@ -5,8 +5,8 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/saif_uddin12)
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=Saifuddin1902&color=blue)
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=Saifuddin1902.profile)
 
 
 
