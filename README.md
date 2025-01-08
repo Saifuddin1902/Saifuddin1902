@@ -6,4 +6,6 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Saifuddin1902&color=blue)
+![Profile Views](https://shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/Saifuddin1902.profile-views&label=Profile%20Views&query=value&color=blue)
+
 
