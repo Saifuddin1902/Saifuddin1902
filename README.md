@@ -1,14 +1,8 @@
 ## Hi there 👋,I'm Mohammed Saifuddin Ahmed
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/)
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/)
-[![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.svg)](https://twitter.com/)
-
-<!-- Instagram resized -->
-<a href="https://www.instagram.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30"/>
-</a>
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/Mohammed Saifuddin Ahmed)
+[![Instagram](https://img.shields.io/badge/-Instagram-pink)](https://www.instagram.com/saifuddin._.ahmed)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2)](https://twitter.com/saifuddin1902)
 
 
 
