@@ -2,4 +2,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-saifuddin-ahmed-648b28255/)
 [![Instagram](https://img.shields.io/badge/-Instagram-pink?logo=instagram&logoColor=white)](https://www.instagram.com/saifuddin._.ahmed)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/saifuddin1902)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/saif_uddin12)
