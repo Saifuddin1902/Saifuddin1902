@@ -7,5 +7,5 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Saifuddin1902&color=blue)
 
-- 📫 Reach me at saifuddin1902maaz@gmail.com.
+
 
